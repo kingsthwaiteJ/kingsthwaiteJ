@@ -16,6 +16,8 @@ I'm a hard-working dev who loves a challenge and to try new things. I spend most
 
 I hope that by the end of my career I have created meaningful change for both people and the planet.
 
+Check out <a href="https://kingsthwaitej.dev" target="_blank">my website</a> to find out more about me.
+
 😎 When I'm AFK
 * ⛳ Disc golf
 * 🥁 Play the drums
