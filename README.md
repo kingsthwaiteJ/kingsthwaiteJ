@@ -16,7 +16,7 @@
 
 😊 About me
 
-I'm a hard-working dev who loves a challenge and to try new things. I spend most of my time developing with VueJS, NodeJS and TypeScript, but I'm also trying to expand my knowledge base and try some other frameworks as well. I love a well-crafted user interface and I love clean, maintainable code.
+I'm a hard-working dev who loves a challenge and to try new things. I spend most of my time developing with React, NodeJS and TypeScript, but I'm also trying to expand my knowledge base and try some other frameworks as well. I love a well-crafted user interface and I love clean, maintainable code.
 
 I hope that by the end of my career I have created meaningful change for both people and the planet.
 
